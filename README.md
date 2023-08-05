@@ -10,7 +10,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Всегда совершентвую свои умения.
+- :telescope: Всегда совершенствую свои умения.
 
 - :seedling: Развиваюсь не в одном направлении.
 
