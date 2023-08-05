@@ -7,7 +7,7 @@
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с 21 года, где я впервые начал писать код на Python. После года практики на вышеупомянутом Python я заинтересовался веб разработкой. По сей день я развиваюсь как разработчик, всегда учу что-то новое, и в кадом проекте стараюсь улучшить чистоту своего кода!
 <p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
+ <img width="600" src="/github-snake.svg" alt="snake"/>
 </p>
 
 - :telescope: Всегда совершенствую свои умения.
